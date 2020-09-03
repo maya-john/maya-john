@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://badgen.net/twitter/follow/maya_john_john?icon=twitter)](https://twitter.com/maya_john_john)
+
 - :computer: I’m currently working on web and mobile development using ReactJS and React Native
 - 🌱 I’m currently learning C++, Java, and Node.js
 - 📫 How to reach me: you can reach me on my [website](https://mayajohn.info)!
