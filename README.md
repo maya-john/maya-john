@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - :computer: I’m currently working on web and mobile development using ReactJS and React Native
 - 🌱 I’m currently learning C++, Java, and Node.js
